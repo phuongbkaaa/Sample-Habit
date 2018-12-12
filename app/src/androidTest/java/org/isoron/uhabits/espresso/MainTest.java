@@ -17,7 +17,7 @@
  * with this program. If not, see <http://www.gnu.org/licenses/>.
  */
 
-package org.isoron.uhabits.espresso;
+package com.simpletool.goodhabit.espresso;
 
 import android.app.*;
 import android.content.*;
@@ -28,10 +28,10 @@ import android.support.test.runner.*;
 import android.test.suitebuilder.annotation.*;
 
 import org.hamcrest.*;
-import org.isoron.uhabits.R;
-import org.isoron.uhabits.activities.habits.list.*;
-import org.isoron.uhabits.models.*;
-import org.isoron.uhabits.utils.*;
+import com.simpletool.goodhabit.R;
+import com.simpletool.goodhabit.activities.habits.list.*;
+import com.simpletool.goodhabit.models.*;
+import com.simpletool.goodhabit.utils.*;
 import org.junit.*;
 import org.junit.runner.*;
 
@@ -45,9 +45,9 @@ import static android.support.test.espresso.intent.Intents.*;
 import static android.support.test.espresso.intent.matcher.IntentMatchers.*;
 import static android.support.test.espresso.matcher.ViewMatchers.*;
 import static org.hamcrest.Matchers.*;
-import static org.isoron.uhabits.espresso.HabitViewActions.*;
-import static org.isoron.uhabits.espresso.MainActivityActions.*;
-import static org.isoron.uhabits.espresso.ShowHabitActivityActions.*;
+import static com.simpletool.goodhabit.espresso.HabitViewActions.*;
+import static com.simpletool.goodhabit.espresso.MainActivityActions.*;
+import static com.simpletool.goodhabit.espresso.ShowHabitActivityActions.*;
 
 @RunWith(AndroidJUnit4.class)
 @LargeTest

@@ -17,7 +17,7 @@
  * with this program. If not, see <http://www.gnu.org/licenses/>.
  */
 
-package org.isoron.uhabits;
+package com.simpletool.goodhabit;
 
 import android.appwidget.*;
 import android.content.*;
@@ -26,10 +26,12 @@ import android.support.annotation.*;
 import android.support.test.*;
 import android.util.*;
 
-import org.isoron.uhabits.models.*;
-import org.isoron.uhabits.preferences.*;
-import org.isoron.uhabits.tasks.*;
-import org.isoron.uhabits.utils.*;
+import com.simpletool.goodhabit.AppModule;
+import com.simpletool.goodhabit.HabitLogger;
+import com.simpletool.goodhabit.HabitsApplication;
+
+import com.simpletool.goodhabit.preferences.*;
+import com.simpletool.goodhabit.utils.*;
 import org.junit.*;
 
 import java.io.*;

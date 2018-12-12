@@ -17,9 +17,9 @@
  * with this program. If not, see <http://www.gnu.org/licenses/>.
  */
 
-package org.isoron.uhabits.models;
+package com.simpletool.goodhabit.models;
 
-import org.isoron.uhabits.BaseUnitTest;
+import com.simpletool.goodhabit.BaseUnitTest;
 import org.junit.Before;
 import org.junit.Test;
 

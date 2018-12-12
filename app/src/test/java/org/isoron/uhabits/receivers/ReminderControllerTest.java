@@ -17,13 +17,13 @@
  * with this program. If not, see <http://www.gnu.org/licenses/>.
  */
 
-package org.isoron.uhabits.receivers;
+package com.simpletool.goodhabit.receivers;
 
-import org.isoron.uhabits.*;
-import org.isoron.uhabits.models.*;
-import org.isoron.uhabits.notifications.*;
-import org.isoron.uhabits.preferences.*;
-import org.isoron.uhabits.utils.*;
+import com.simpletool.goodhabit.*;
+import com.simpletool.goodhabit.models.*;
+import com.simpletool.goodhabit.notifications.*;
+import com.simpletool.goodhabit.preferences.*;
+import com.simpletool.goodhabit.utils.*;
 import org.junit.*;
 
 import static org.mockito.Mockito.*;

@@ -17,15 +17,15 @@
  * with this program. If not, see <http://www.gnu.org/licenses/>.
  */
 
-package org.isoron.uhabits.activities.habits.list;
+package com.simpletool.goodhabit.activities.habits.list;
 
 import android.view.*;
 
-import org.isoron.uhabits.*;
-import org.isoron.uhabits.activities.*;
-import org.isoron.uhabits.activities.habits.list.model.*;
-import org.isoron.uhabits.models.*;
-import org.isoron.uhabits.preferences.*;
+import com.simpletool.goodhabit.*;
+import com.simpletool.goodhabit.activities.*;
+import com.simpletool.goodhabit.activities.habits.list.model.*;
+import com.simpletool.goodhabit.models.*;
+import com.simpletool.goodhabit.preferences.*;
 import org.junit.*;
 import org.mockito.*;
 

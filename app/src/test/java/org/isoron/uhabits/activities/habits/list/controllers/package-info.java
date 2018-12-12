@@ -20,4 +20,4 @@
 /**
  * Contains views for ListHabitsActivity
  */
-package org.isoron.uhabits.activities.habits.list.controllers;
+package com.simpletool.goodhabit.activities.habits.list.controllers;

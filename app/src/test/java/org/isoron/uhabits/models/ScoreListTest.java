@@ -17,10 +17,10 @@
  * with this program. If not, see <http://www.gnu.org/licenses/>.
  */
 
-package org.isoron.uhabits.models;
+package com.simpletool.goodhabit.models;
 
-import org.isoron.uhabits.*;
-import org.isoron.uhabits.utils.*;
+import com.simpletool.goodhabit.*;
+import com.simpletool.goodhabit.utils.*;
 import org.junit.*;
 
 import java.io.*;

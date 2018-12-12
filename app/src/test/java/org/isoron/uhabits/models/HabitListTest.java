@@ -17,10 +17,10 @@
  * with this program. If not, see <http://www.gnu.org/licenses/>.
  */
 
-package org.isoron.uhabits.models;
+package com.simpletool.goodhabit.models;
 
 import org.hamcrest.*;
-import org.isoron.uhabits.*;
+import com.simpletool.goodhabit.*;
 import org.junit.*;
 
 import java.io.*;
@@ -30,7 +30,7 @@ import static junit.framework.Assert.*;
 import static org.hamcrest.CoreMatchers.*;
 import static org.hamcrest.MatcherAssert.*;
 import static org.hamcrest.core.IsEqual.equalTo;
-import static org.isoron.uhabits.models.HabitList.Order.*;
+import static com.simpletool.goodhabit.models.HabitList.Order.*;
 
 @SuppressWarnings("JavaDoc")
 public class HabitListTest extends BaseUnitTest

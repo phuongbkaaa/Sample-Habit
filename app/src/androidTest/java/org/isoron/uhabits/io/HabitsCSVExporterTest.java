@@ -17,16 +17,16 @@
  * with this program. If not, see <http://www.gnu.org/licenses/>.
  */
 
-package org.isoron.uhabits.io;
+package com.simpletool.goodhabit.io;
 
 import android.content.*;
 import android.support.test.*;
 import android.support.test.runner.*;
 import android.test.suitebuilder.annotation.*;
 
-import org.isoron.uhabits.*;
-import org.isoron.uhabits.models.*;
-import org.isoron.uhabits.utils.*;
+import com.simpletool.goodhabit.*;
+import com.simpletool.goodhabit.models.*;
+import com.simpletool.goodhabit.utils.*;
 import org.junit.*;
 import org.junit.runner.*;
 

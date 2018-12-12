@@ -17,14 +17,14 @@
  * with this program. If not, see <http://www.gnu.org/licenses/>.
  */
 
-package org.isoron.uhabits.utils;
+package com.simpletool.goodhabit.utils;
 
 import android.app.*;
 
-import org.isoron.uhabits.*;
-import org.isoron.uhabits.commands.*;
-import org.isoron.uhabits.intents.*;
-import org.isoron.uhabits.models.*;
+import com.simpletool.goodhabit.HabitLogger;
+
+import com.simpletool.goodhabit.*;
+import com.simpletool.goodhabit.intents.*;
 import org.junit.*;
 
 import java.util.*;

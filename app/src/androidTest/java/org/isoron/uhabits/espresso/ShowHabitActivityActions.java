@@ -17,11 +17,11 @@
  * with this program. If not, see <http://www.gnu.org/licenses/>.
  */
 
-package org.isoron.uhabits.espresso;
+package com.simpletool.goodhabit.espresso;
 
 import android.support.test.espresso.matcher.ViewMatchers;
 
-import org.isoron.uhabits.R;
+import com.simpletool.goodhabit.R;
 
 import static android.support.test.espresso.Espresso.onView;
 import static android.support.test.espresso.action.ViewActions.click;

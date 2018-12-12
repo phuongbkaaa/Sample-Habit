@@ -17,9 +17,9 @@
  * with this program. If not, see <http://www.gnu.org/licenses/>.
  */
 
-package org.isoron.uhabits.models;
+package com.simpletool.goodhabit.models;
 
-import org.isoron.uhabits.*;
+import com.simpletool.goodhabit.*;
 import org.junit.*;
 
 import static org.hamcrest.CoreMatchers.*;

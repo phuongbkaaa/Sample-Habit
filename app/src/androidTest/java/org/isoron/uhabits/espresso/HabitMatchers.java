@@ -17,7 +17,7 @@
  * with this program. If not, see <http://www.gnu.org/licenses/>.
  */
 
-package org.isoron.uhabits.espresso;
+package com.simpletool.goodhabit.espresso;
 
 import android.preference.Preference;
 import android.view.View;
@@ -28,7 +28,7 @@ import org.hamcrest.BaseMatcher;
 import org.hamcrest.Description;
 import org.hamcrest.Matcher;
 import org.hamcrest.TypeSafeMatcher;
-import org.isoron.uhabits.models.Habit;
+import com.simpletool.goodhabit.models.Habit;
 
 public class HabitMatchers
 {

@@ -17,7 +17,7 @@
  * with this program. If not, see <http://www.gnu.org/licenses/>.
  */
 
-package org.isoron.uhabits.espresso;
+package com.simpletool.goodhabit.espresso;
 
 import android.support.test.espresso.UiController;
 import android.support.test.espresso.ViewAction;
@@ -32,7 +32,7 @@ import android.widget.LinearLayout;
 import android.widget.TextView;
 
 import org.hamcrest.Matcher;
-import org.isoron.uhabits.R;
+import com.simpletool.goodhabit.R;
 
 import java.security.InvalidParameterException;
 import java.util.Random;

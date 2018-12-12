@@ -17,12 +17,12 @@
  * with this program. If not, see <http://www.gnu.org/licenses/>.
  */
 
-package org.isoron.uhabits.tasks;
+package com.simpletool.goodhabit.tasks;
 
 import android.support.test.runner.*;
 import android.test.suitebuilder.annotation.*;
 
-import org.isoron.uhabits.*;
+import com.simpletool.goodhabit.*;
 import org.junit.*;
 import org.junit.runner.*;
 

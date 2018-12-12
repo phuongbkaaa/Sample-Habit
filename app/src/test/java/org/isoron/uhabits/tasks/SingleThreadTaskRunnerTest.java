@@ -17,9 +17,9 @@
  * with this program. If not, see <http://www.gnu.org/licenses/>.
  */
 
-package org.isoron.uhabits.tasks;
+package com.simpletool.goodhabit.tasks;
 
-import org.isoron.uhabits.*;
+import com.simpletool.goodhabit.*;
 import org.junit.*;
 import org.junit.runner.*;
 import org.junit.runners.*;

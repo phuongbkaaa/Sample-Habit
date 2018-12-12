@@ -17,12 +17,12 @@
  * with this program. If not, see <http://www.gnu.org/licenses/>.
  */
 
-package org.isoron.uhabits.activities.habits.list.controllers;
+package com.simpletool.goodhabit.activities.habits.list.controllers;
 
-import org.isoron.uhabits.*;
-import org.isoron.uhabits.models.*;
-import org.isoron.uhabits.activities.habits.list.model.*;
-import org.isoron.uhabits.activities.habits.list.views.*;
+import com.simpletool.goodhabit.*;
+import com.simpletool.goodhabit.models.*;
+import com.simpletool.goodhabit.activities.habits.list.model.*;
+import com.simpletool.goodhabit.activities.habits.list.views.*;
 import org.junit.*;
 
 import java.util.*;

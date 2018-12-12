@@ -17,14 +17,14 @@
  * with this program. If not, see <http://www.gnu.org/licenses/>.
  */
 
-package org.isoron.uhabits.espresso;
+package com.simpletool.goodhabit.espresso;
 
 import android.support.test.espresso.*;
 import android.support.test.espresso.contrib.*;
 
 import org.hamcrest.*;
-import org.isoron.uhabits.R;
-import org.isoron.uhabits.models.*;
+import com.simpletool.goodhabit.R;
+import com.simpletool.goodhabit.models.*;
 
 import java.util.*;
 

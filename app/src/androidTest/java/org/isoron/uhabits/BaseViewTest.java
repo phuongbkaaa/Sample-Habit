@@ -17,7 +17,7 @@
  * with this program. If not, see <http://www.gnu.org/licenses/>.
  */
 
-package org.isoron.uhabits;
+package com.simpletool.goodhabit;
 
 import android.graphics.*;
 import android.os.*;
@@ -25,8 +25,8 @@ import android.support.annotation.*;
 import android.view.*;
 import android.widget.*;
 
-import org.isoron.uhabits.utils.*;
-import org.isoron.uhabits.widgets.*;
+import com.simpletool.goodhabit.utils.*;
+import com.simpletool.goodhabit.widgets.*;
 
 import java.io.*;
 

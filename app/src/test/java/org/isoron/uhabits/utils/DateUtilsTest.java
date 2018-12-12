@@ -17,9 +17,9 @@
  * with this program. If not, see <http://www.gnu.org/licenses/>.
  */
 
-package org.isoron.uhabits.utils;
+package com.simpletool.goodhabit.utils;
 
-import org.isoron.uhabits.*;
+import com.simpletool.goodhabit.*;
 import org.junit.*;
 
 import java.util.*;
@@ -28,8 +28,8 @@ import static java.util.Calendar.*;
 import static junit.framework.Assert.assertEquals;
 import static org.hamcrest.CoreMatchers.*;
 import static org.hamcrest.MatcherAssert.*;
-import static org.isoron.uhabits.utils.DateUtils.applyTimezone;
-import static org.isoron.uhabits.utils.DateUtils.removeTimezone;
+import static com.simpletool.goodhabit.utils.DateUtils.applyTimezone;
+import static com.simpletool.goodhabit.utils.DateUtils.removeTimezone;
 
 public class DateUtilsTest extends BaseUnitTest
 {

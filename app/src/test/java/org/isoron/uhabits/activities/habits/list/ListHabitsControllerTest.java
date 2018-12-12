@@ -17,17 +17,17 @@
  * with this program. If not, see <http://www.gnu.org/licenses/>.
  */
 
-package org.isoron.uhabits.activities.habits.list;
+package com.simpletool.goodhabit.activities.habits.list;
 
-import org.isoron.uhabits.*;
-import org.isoron.uhabits.activities.*;
-import org.isoron.uhabits.activities.habits.list.model.*;
-import org.isoron.uhabits.commands.*;
-import org.isoron.uhabits.models.*;
-import org.isoron.uhabits.preferences.*;
-import org.isoron.uhabits.tasks.*;
-import org.isoron.uhabits.utils.*;
-import org.isoron.uhabits.widgets.*;
+import com.simpletool.goodhabit.*;
+import com.simpletool.goodhabit.activities.*;
+import com.simpletool.goodhabit.activities.habits.list.model.*;
+import com.simpletool.goodhabit.commands.*;
+import com.simpletool.goodhabit.models.*;
+import com.simpletool.goodhabit.preferences.*;
+import com.simpletool.goodhabit.tasks.*;
+import com.simpletool.goodhabit.utils.*;
+import com.simpletool.goodhabit.widgets.*;
 import org.junit.*;
 
 import static org.mockito.Mockito.*;

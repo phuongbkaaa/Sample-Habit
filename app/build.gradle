@@ -23,7 +23,7 @@ android {
 
 
     defaultConfig {
-        applicationId "org.isoron.uhabits"
+        applicationId "com.simpletool.goodhabit"
         minSdkVersion 15
         targetSdkVersion 27
 

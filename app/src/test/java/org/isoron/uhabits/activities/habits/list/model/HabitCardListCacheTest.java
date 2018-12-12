@@ -17,13 +17,13 @@
  * with this program. If not, see <http://www.gnu.org/licenses/>.
  */
 
-package org.isoron.uhabits.activities.habits.list.model;
+package com.simpletool.goodhabit.activities.habits.list.model;
 
-import org.isoron.uhabits.*;
-import org.isoron.uhabits.commands.*;
-import org.isoron.uhabits.models.*;
-import org.isoron.uhabits.tasks.*;
-import org.isoron.uhabits.utils.*;
+import com.simpletool.goodhabit.*;
+import com.simpletool.goodhabit.commands.*;
+import com.simpletool.goodhabit.models.*;
+import com.simpletool.goodhabit.tasks.*;
+import com.simpletool.goodhabit.utils.*;
 import org.junit.*;
 
 import java.util.*;

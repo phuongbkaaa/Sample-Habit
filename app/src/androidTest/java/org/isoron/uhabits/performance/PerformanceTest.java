@@ -17,12 +17,12 @@
  * with this program. If not, see <http://www.gnu.org/licenses/>.
  */
 
-package org.isoron.uhabits.performance;
+package com.simpletool.goodhabit.performance;
 
 import android.support.test.filters.*;
 
-import org.isoron.uhabits.*;
-import org.isoron.uhabits.models.*;
+import com.simpletool.goodhabit.*;
+import com.simpletool.goodhabit.models.*;
 import org.junit.*;
 
 @MediumTest

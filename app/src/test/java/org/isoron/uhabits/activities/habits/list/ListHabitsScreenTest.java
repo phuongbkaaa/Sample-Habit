@@ -17,28 +17,28 @@
  * with this program. If not, see <http://www.gnu.org/licenses/>.
  */
 
-package org.isoron.uhabits.activities.habits.list;
+package com.simpletool.goodhabit.activities.habits.list;
 
 
 import android.content.*;
 import android.support.v7.app.*;
 
-import org.isoron.uhabits.*;
-import org.isoron.uhabits.activities.*;
-import org.isoron.uhabits.activities.common.dialogs.*;
-import org.isoron.uhabits.activities.common.dialogs.ColorPickerDialog.*;
-import org.isoron.uhabits.activities.habits.edit.*;
-import org.isoron.uhabits.commands.*;
-import org.isoron.uhabits.intents.*;
-import org.isoron.uhabits.io.*;
-import org.isoron.uhabits.models.*;
+import com.simpletool.goodhabit.*;
+import com.simpletool.goodhabit.activities.*;
+import com.simpletool.goodhabit.activities.common.dialogs.*;
+import com.simpletool.goodhabit.activities.common.dialogs.ColorPickerDialog.*;
+import com.simpletool.goodhabit.activities.habits.edit.*;
+import com.simpletool.goodhabit.commands.*;
+import com.simpletool.goodhabit.intents.*;
+import com.simpletool.goodhabit.io.*;
+import com.simpletool.goodhabit.models.*;
 import org.junit.*;
 import org.junit.runner.*;
 import org.junit.runners.*;
 
 import java.io.*;
 
-import static org.isoron.uhabits.activities.habits.list.ListHabitsScreen.*;
+import static com.simpletool.goodhabit.activities.habits.list.ListHabitsScreen.*;
 import static org.mockito.Matchers.any;
 import static org.mockito.Mockito.anyInt;
 import static org.mockito.Mockito.*;

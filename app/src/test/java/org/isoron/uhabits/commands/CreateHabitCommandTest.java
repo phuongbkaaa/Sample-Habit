@@ -17,10 +17,10 @@
  * with this program. If not, see <http://www.gnu.org/licenses/>.
  */
 
-package org.isoron.uhabits.commands;
+package com.simpletool.goodhabit.commands;
 
-import org.isoron.uhabits.*;
-import org.isoron.uhabits.models.*;
+import com.simpletool.goodhabit.*;
+import com.simpletool.goodhabit.models.*;
 import org.junit.*;
 
 import static junit.framework.Assert.*;

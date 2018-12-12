@@ -17,15 +17,15 @@
  * with this program. If not, see <http://www.gnu.org/licenses/>.
  */
 
-package org.isoron.uhabits.activities.habits.list.views;
+package com.simpletool.goodhabit.activities.habits.list.views;
 
 import android.support.test.runner.AndroidJUnit4;
 import android.test.suitebuilder.annotation.*;
 
-import org.isoron.uhabits.models.Checkmark;
-import org.isoron.uhabits.models.Habit;
-import org.isoron.uhabits.BaseViewTest;
-import org.isoron.uhabits.utils.ColorUtils;
+import com.simpletool.goodhabit.models.Checkmark;
+import com.simpletool.goodhabit.models.Habit;
+import com.simpletool.goodhabit.BaseViewTest;
+import com.simpletool.goodhabit.utils.ColorUtils;
 import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;

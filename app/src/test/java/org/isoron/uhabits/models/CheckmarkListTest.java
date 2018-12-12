@@ -17,17 +17,17 @@
  * with this program. If not, see <http://www.gnu.org/licenses/>.
  */
 
-package org.isoron.uhabits.models;
+package com.simpletool.goodhabit.models;
 
-import org.isoron.uhabits.*;
-import org.isoron.uhabits.utils.*;
+import com.simpletool.goodhabit.*;
+import com.simpletool.goodhabit.utils.*;
 import org.junit.*;
 
 import java.io.*;
 
 import static org.hamcrest.MatcherAssert.*;
 import static org.hamcrest.core.IsEqual.*;
-import static org.isoron.uhabits.models.Checkmark.*;
+import static com.simpletool.goodhabit.models.Checkmark.*;
 
 public class CheckmarkListTest extends BaseUnitTest
 {

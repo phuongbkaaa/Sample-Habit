@@ -17,11 +17,12 @@
  * with this program. If not, see <http://www.gnu.org/licenses/>.
  */
 
-package org.isoron.uhabits;
+package com.simpletool.goodhabit;
 
 
-import org.isoron.uhabits.models.sqlite.*;
-import org.isoron.uhabits.tasks.*;
+import com.simpletool.goodhabit.AppComponent;
+import com.simpletool.goodhabit.AppModule;
+import com.simpletool.goodhabit.AppScope;
 
 import dagger.*;
 

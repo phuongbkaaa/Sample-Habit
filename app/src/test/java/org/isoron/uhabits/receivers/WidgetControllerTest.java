@@ -17,18 +17,18 @@
  * with this program. If not, see <http://www.gnu.org/licenses/>.
  */
 
-package org.isoron.uhabits.receivers;
+package com.simpletool.goodhabit.receivers;
 
-import org.isoron.uhabits.*;
-import org.isoron.uhabits.commands.*;
-import org.isoron.uhabits.models.*;
-import org.isoron.uhabits.notifications.*;
-import org.isoron.uhabits.utils.*;
+import com.simpletool.goodhabit.*;
+import com.simpletool.goodhabit.commands.*;
+import com.simpletool.goodhabit.models.*;
+import com.simpletool.goodhabit.notifications.*;
+import com.simpletool.goodhabit.utils.*;
 import org.junit.*;
 
 import static org.hamcrest.MatcherAssert.*;
 import static org.hamcrest.core.IsEqual.*;
-import static org.isoron.uhabits.models.Checkmark.*;
+import static com.simpletool.goodhabit.models.Checkmark.*;
 import static org.mockito.Mockito.*;
 
 public class WidgetControllerTest extends BaseUnitTest

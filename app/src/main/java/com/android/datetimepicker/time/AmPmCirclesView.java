@@ -18,7 +18,7 @@ package com.android.datetimepicker.time;
 
 import java.text.DateFormatSymbols;
 
-import org.isoron.uhabits.R;
+import com.simpletool.goodhabit.R;
 
 import android.content.Context;
 import android.content.res.Resources;

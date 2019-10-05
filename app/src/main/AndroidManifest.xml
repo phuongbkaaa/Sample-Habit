@@ -19,10 +19,10 @@
   -->
 
 <manifest
-    package="org.isoron.uhabits"
+    package="com.simpletool.goodhabit"
     xmlns:android="http://schemas.android.com/apk/res/android"
-    android:versionCode="38"
-    android:versionName="1.7.11">
+    android:versionCode="36"
+    android:versionName="1.7.9">
 
     <uses-permission android:name="android.permission.VIBRATE"/>
 
@@ -37,9 +37,9 @@
     <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"/>
 
     <application
-        android:name="HabitsApplication"
+        android:name="com.simpletool.goodhabit.HabitsApplication"
         android:allowBackup="true"
-        android:backupAgent=".HabitsBackupAgent"
+        android:backupAgent="com.simpletool.goodhabit.HabitsBackupAgent"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/main_activity_title"
         android:supportsRtl="true"
@@ -172,25 +172,25 @@
         <receiver android:name=".receivers.WidgetReceiver">
             <intent-filter>
                 <category android:name="android.intent.category.DEFAULT"/>
-                <action android:name="org.isoron.uhabits.ACTION_TOGGLE_REPETITION"/>
+                <action android:name="com.simpletool.goodhabit.ACTION_TOGGLE_REPETITION"/>
                 <data
-                    android:host="org.isoron.uhabits"
+                    android:host="com.simpletool.goodhabit"
                     android:scheme="content"/>
             </intent-filter>
 
             <intent-filter>
                 <category android:name="android.intent.category.DEFAULT"/>
-                <action android:name="org.isoron.uhabits.ACTION_ADD_REPETITION"/>
+                <action android:name="com.simpletool.goodhabit.ACTION_ADD_REPETITION"/>
                 <data
-                    android:host="org.isoron.uhabits"
+                    android:host="com.simpletool.goodhabit"
                     android:scheme="content"/>
             </intent-filter>
 
             <intent-filter>
                 <category android:name="android.intent.category.DEFAULT"/>
-                <action android:name="org.isoron.uhabits.ACTION_REMOVE_REPETITION"/>
+                <action android:name="com.simpletool.goodhabit.ACTION_REMOVE_REPETITION"/>
                 <data
-                    android:host="org.isoron.uhabits"
+                    android:host="com.simpletool.goodhabit"
                     android:scheme="content"/>
             </intent-filter>
         </receiver>
@@ -225,7 +225,7 @@
 
         <provider
             android:name="android.support.v4.content.FileProvider"
-            android:authorities="org.isoron.uhabits"
+            android:authorities="com.simpletool.goodhabit"
             android:exported="false"
             android:grantUriPermissions="true">
             <meta-data

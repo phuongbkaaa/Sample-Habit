@@ -16,7 +16,7 @@
 
 package com.android.colorpicker;
 
-import com.simpletool.goodhabit.R;
+import org.isoron.uhabits.R;
 
 import android.content.Context;
 import android.graphics.drawable.Drawable;

@@ -29,7 +29,7 @@
         style="@style/ListHabits.HabitCard"
         android:layout_width="match_parent">
 
-        <com.simpletool.goodhabit.activities.common.views.RingView
+        <org.isoron.uhabits.activities.common.views.RingView
             android:id="@+id/scoreRing"
             android:layout_width="15dp"
             android:layout_height="15dp"
@@ -42,7 +42,7 @@
             android:id="@+id/label"
             style="@style/ListHabits.Label"/>
 
-        <com.simpletool.goodhabit.activities.habits.list.views.CheckmarkPanelView
+        <org.isoron.uhabits.activities.habits.list.views.CheckmarkPanelView
             android:id="@+id/checkmarkPanel"
             style="@style/ListHabits.CheckmarkPanel"/>
 

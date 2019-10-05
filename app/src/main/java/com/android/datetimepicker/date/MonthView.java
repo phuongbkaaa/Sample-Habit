@@ -23,7 +23,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Locale;
 
-import com.simpletool.goodhabit.R;
+import org.isoron.uhabits.R;
 
 import android.content.Context;
 import android.content.res.Resources;

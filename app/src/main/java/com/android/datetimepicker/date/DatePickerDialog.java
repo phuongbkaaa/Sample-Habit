@@ -22,7 +22,7 @@ import java.util.HashSet;
 import java.util.Iterator;
 import java.util.Locale;
 
-import com.simpletool.goodhabit.R;
+import org.isoron.uhabits.R;
 
 import android.animation.ObjectAnimator;
 import android.app.Activity;

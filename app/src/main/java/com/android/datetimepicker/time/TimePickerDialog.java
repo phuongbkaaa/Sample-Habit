@@ -20,7 +20,7 @@ import java.text.DateFormatSymbols;
 import java.util.ArrayList;
 import java.util.Locale;
 
-import com.simpletool.goodhabit.R;
+import org.isoron.uhabits.R;
 
 import android.animation.ObjectAnimator;
 import android.annotation.SuppressLint;

@@ -19,7 +19,7 @@ package com.android.datetimepicker.date;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.simpletool.goodhabit.R;
+import org.isoron.uhabits.R;
 
 import android.content.Context;
 import android.content.res.Resources;
